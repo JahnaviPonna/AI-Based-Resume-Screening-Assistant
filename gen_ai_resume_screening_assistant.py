@@ -1,5 +1,6 @@
 !pip install -U PyPDF2 sentence-transformers pandas matplotlib
 
+!pip install fuzzywuzzy[speedup]
 
 import os
 import re
